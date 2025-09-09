@@ -1,2 +1,1 @@
-# .github
-Neaera Consulting, LLC
+# Neaera Consulting, LLC
